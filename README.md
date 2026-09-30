@@ -28,33 +28,107 @@ communication, third-party integrations and cloud-based solutions.
 - 🐛 Production troubleshooting, debugging and issue resolution
 - 🤝 Agile/Scrum, Git, pull requests and code reviews
 
-
 ## ⚙️ Engineering
 
-| Backend | Frontend | Data |
-|---|---|---|
-| C# · .NET | Blazor Server | SQL Server |
-| ASP.NET Core | Blazor WASM | PostgreSQL |
-| Web API · REST | React | MongoDB |
-| EF Core · Dapper | JavaScript · jQuery | Redis |
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
 
-| Architecture & Engineering | Cloud & DevOps |
-|---|---|
-| Onion Architecture | AWS |
-| Repository Pattern | Docker |
-| Unit of Work | CI/CD |
-| Dependency Injection | Git · GitHub |
-| DTOs · AutoMapper | Azure DevOps |
-| Logging · Exception Handling | Bitbucket Pipelines |
+### Backend
 
-| Security & Identity | Integration & Monitoring |
-|---|---|
-| SAML 2.0 | SignalR |
-| Microsoft Entra ID | gRPC |
-| JWT | Background Services |
-| Authentication & Authorization | Grafana · ECharts |
-| API Rate Limiting | Third-Party REST APIs |
+`C#` · `.NET`  
+`ASP.NET Core`  
+`Web API` · `REST`  
+`EF Core` · `Dapper`
 
+</td>
+
+<td width="25%" valign="top">
+
+### Frontend
+
+`Blazor Server`  
+`Blazor WASM`  
+`React`  
+`JavaScript` · `jQuery`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Data
+
+`SQL Server`  
+`PostgreSQL`  
+`MongoDB`  
+`Redis`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Architecture
+
+`Onion Architecture`  
+`Repository Pattern`  
+`Unit of Work`  
+`Dependency Injection`  
+`DTOs` · `AutoMapper`
+
+</td>
+</tr>
+
+<tr>
+<td width="25%" valign="top">
+
+### Cloud & DevOps
+
+`AWS`  
+`Docker`  
+`CI/CD`  
+`Git` · `GitHub`  
+`Azure DevOps`  
+`Bitbucket Pipelines`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Security & Identity
+
+`SAML 2.0`  
+`Microsoft Entra ID`  
+`JWT`  
+`Authentication`  
+`Authorization`  
+`API Rate Limiting`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Integration
+
+`SignalR`  
+`gRPC`  
+`Background Services`  
+`Third-Party REST APIs`
+
+</td>
+
+<td width="25%" valign="top">
+
+### Monitoring & Engineering
+
+`Grafana` · `ECharts`  
+`Logging`  
+`Exception Handling`  
+`Code Reviews`  
+`Production Support`
+
+</td>
+</tr>
+</table>
 
 ## 🧠 Currently Exploring
 
